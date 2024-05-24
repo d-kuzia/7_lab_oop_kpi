@@ -235,7 +235,7 @@ namespace lab
                 }
             }
 
-            //Приклад виконання завдань
+            // Приклад виконання завдань
 
             // Знайти перше входження елементу кратного 5
             var multipleOfFive = list.FindFirstMultiple(5);
